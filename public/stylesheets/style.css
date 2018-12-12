@@ -1,0 +1,15 @@
+i.code {
+    font-size: 2em;
+}
+.container.main {
+    margin-top: 7em;
+}
+.blog {
+    margin-top: 7em;
+}
+.blogs {
+    margin-bottom: 5em;
+}
+#delete {
+    display: inline;
+}
